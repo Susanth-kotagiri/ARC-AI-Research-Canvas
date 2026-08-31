@@ -1,0 +1,10 @@
+{
+  "name": "ARC",
+  "description": "ARC transforms research questions into living, evidence-backed knowledge graphs with interactive exploration, contradiction detection, and citation-backed intelligence.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
